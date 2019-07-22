@@ -6,5 +6,4 @@ setup(name='LabelsDb',
       url='https://github.com/Hororohoruru/cognitive_atlas_db',
       author='Juan Jesus Torre',
       author_email='juanjesustorre@gmail.com',
-      packages=['core'],
-)
+      packages=['LabelsDb'])
