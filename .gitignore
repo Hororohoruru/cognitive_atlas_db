@@ -1,3 +1,12 @@
 ## Config file with the paths
 
 *.json
+
+## IDE stuffs
+
+*.idea
+
+## Package stuffs
+
+*.egg-info/
+
